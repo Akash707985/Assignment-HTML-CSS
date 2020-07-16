@@ -1,0 +1,22 @@
+#main aside{
+    border-right:4px double green;
+    height: 600px;
+    width:25%;
+    margin-left: 60px;
+    float: left;
+    margin-top: 0px;
+    background: radial-gradient(circle,#ff00ff,rgb(0, 225, 255),yellow);
+}
+#main article{
+    
+    height: 600px;
+    float: left;
+    width:65%;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: justify;
+    column-count: 3;
+}
+#main article{
+    background: url(../images/background.jpg)repeat;
+}

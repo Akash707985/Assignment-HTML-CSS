@@ -1,0 +1,21 @@
+*{
+    background-color: violet;
+}
+footer{
+    background-color: tomato;
+    
+}
+.test{
+    font-family: cursive;
+}
+#test{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0rem;
+
+      }
+}

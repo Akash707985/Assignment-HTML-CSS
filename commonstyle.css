@@ -1,0 +1,41 @@
+#headersection
+{
+    border:2px solid red;
+}
+#headersection header{
+    height: 150px;
+    width:  90%px;
+    border: 2px solid forestgreen;
+    margin: 60px;
+    margin-left: 60px;
+    margin-bottom: 2px;
+    padding-left: 30px;
+}
+#headersection nav
+{
+    height: 70px;
+    width:  90%px;
+    border: 2px solid forestgreen;
+    margin: 60px;
+    margin-left: 60px;
+    margin-top: 0px;
+    padding-left: 30px;
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-decoration: none;
+}
+    
+nav ul li a{
+    text-decoration: none;
+}
+#Login{
+    margin-left: 700px;
+}
+}/*Login{
+    text-decoration:underline;
+}*/
